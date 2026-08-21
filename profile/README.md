@@ -27,7 +27,7 @@ La plateforme est organisée autour d’un portail principal donnant accès aux 
 ## 🖼️ Aperçu de la plateforme
 
 **Capture d’écran – Portail principal**
-![Accueil de la plateforme](./resources/MyAccountHome.png)
+![Accueil de la plateforme](../resources/MyAccountHome.png)
 
 Cette interface constitue le point d’entrée de la plateforme et permet à l’utilisateur d’accéder aux différents modules auxquels il est autorisé.
 
